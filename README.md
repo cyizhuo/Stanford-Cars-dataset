@@ -1,6 +1,9 @@
 # Stanford-Cars-dataset
-The Stanford Cars dataset from:
+The Stanford Cars dataset by classes folder from:
 
 https://ai.stanford.edu/~jkrause/cars/car_dataset.html
 
-Images placed in folders by classes.
+
+Download from Kaggle:
+
+https://www.kaggle.com/cyizhuo/stanford-cars
